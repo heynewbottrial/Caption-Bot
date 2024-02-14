@@ -18,15 +18,15 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "6583206123:AAEfBuiEsGItfGhPqwBBlQJpr9y_0KVbIoc"
+      "value": "6260622606:AAFPTnZx_zy1OKbwwt4bIcrspwbyPsIi8Pk"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "1371835"
+      "value": "24262622"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "7217b7945bf6dab0ed8919e5dc697b0c"
+      "value": "50831eb3329ed9c0557aa2bc6aa34376"
     },
     "CAPTION_TEXT": {
       "description": "Add your caption Defult will be [Markdown] [nothing]",
@@ -39,7 +39,7 @@
     },
     "ADMIN_USERNAME": {
       "description": "Admin username without [@], Default will be Ts_bots",
-      "value": "AvishkarPatil", 
+      "value": "ElectricHacker", 
       "required": false
     }        
     

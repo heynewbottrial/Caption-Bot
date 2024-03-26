@@ -1,5 +1,5 @@
 {
-  "name": "Caption Bot [ Avishkar Patil ]",
+  "name": "Caption Bot [ Electric Hacker ]",
   "description": "Telegram auto caption bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -7,10 +7,10 @@
     "auto",
     "caption" 
   ],
-  "success_url": "https://telegram.com/capxbot",
-  "website": "https://github.com/avipatilpro/Caption-Bot",
-  "repository": "https://github.com/avipatilpro/Caption-Bot",
-  "logo": "https://telegra.ph/file/a3e95bf96275cb37844b1.jpg",
+  "success_url": "https://t.me/Electric_Hacker_Team",
+  "website": "https://github.com/electricalscammer/Caption-Bot",
+  "repository": "https://github.com/electricalscammer/Caption-Bot",
+  "logo": "https://graph.org/file/581a59b9d3816044fa559.jpg",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -18,7 +18,7 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "6260622606:AAFPTnZx_zy1OKbwwt4bIcrspwbyPsIi8Pk"
+      "value": "6260622606:AAF6CzWlP0mrHpcqZZsEMhi-rNyXQLQ5SKs"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",

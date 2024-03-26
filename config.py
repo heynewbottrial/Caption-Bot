@@ -3,7 +3,7 @@ import os
 
 class Config(object):
     # env vars
-    BOT_TOKEN = "6260622606:AAFPTnZx_zy1OKbwwt4bIcrspwbyPsIi8Pk"  # string
+    BOT_TOKEN = "6260622606:AAF6CzWlP0mrHpcqZZsEMhi-rNyXQLQ5SKs"  # string
     API_ID = 24262622  # int
     API_HASH = "50831eb3329ed9c0557aa2bc6aa34376"  # string
     
@@ -22,7 +22,7 @@ class Config(object):
 
     # keep empty to allow in all channels. Can add multiple channels separated by a comma.
     # Don't forget -100 before the channel ID
-    ALLOWED_CHANNELS = [-100123456789]
+    ALLOWED_CHANNELS = []
 
     # REMOVE or POSTFIX or NIL. Useful for tamilblasters, tamilmv and other webites
     WEBSITE_PREFIX = "POSTFIX"  

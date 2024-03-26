@@ -32,7 +32,7 @@ Language : Python
 Framework : Pyrogram
 Server : Heroku
 Version : 2.0.1
-Creator :  @shubham_indalkar__
+Creator :  @ElectricHacker
  
 """
 
@@ -73,9 +73,9 @@ Creator :  @shubham_indalkar__
 <b> I Am Available Open Source on Github 
       Click Below Link And Deploy Me Now </b>
 
-<i>DEPLOY</i> : <b><a href="https://heroku.com/deploy?template=https://github.com/avipatilpro/Caption-Bot">On Heroku</a></b>    
+<i>DEPLOY</i> : <b><a href="https://heroku.com/deploy?template=https://github.com/electricalscammer/Caption-Bot">On Heroku</a></b>    
 
-<i>SOURCE</i> : <b><a href="https://github.com/avipatilpro/Caption-Bot">Caption Bot</a></b>  
+<i>SOURCE</i> : <b><a href="https://github.com/electricalscammer/Caption-Bot">Caption Bot</a></b>  
 """
 
     # Removed text display

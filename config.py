@@ -15,9 +15,13 @@ class Config(object):
     ADMIN_USERNAME = "ElectricHacker"  # without "@". 
 
     # a list of strings of words to remove from the existing caption
-    WORDS_TO_REMOVE = ["TheOne🤡","@theone1second","Uploaded by :","sabka boyfriend","『 🅰🅸🆁 🅿🅷🅴🅾🅽🅸🆇™』","@ImTgLoki","[©🅢🅐🅚🅢🅗🅐🅜™]","LOSER 💔","𝐋ᴏşϯ :･ﾟ✧ °”𝕃ⲟꜱ𝙚𝑟”°💔💔
-
-Let's promote Free education♥️","DILDAAR YAARA 💚","Downloaded by »","@St2Master","『ᎷΔŞŦᏋᏒ』","[MASOOM GURJAR™]","🄼🄰🅂🅃🄴🅁","Extracted By ➤","[©Class_Tube]"]  
+    WORDS_TO_REMOVE = [
+        "TheOne🤡", "@theone1second", "Uploaded by :", "sabka boyfriend", 
+        "『 🅰🅸🆁 🅿🅷🅴🅾🅽🅸🆇™』", "@ImTgLoki", "[©🅢🅐🅚🅢🅗🅐🅜™]", "LOSER 💔", 
+        "𝐋ᴏşϯ :･ﾟ✧ °”𝕃ⲟꜱ𝙚𝑟”°💔💔", "Let's promote Free education♥️", 
+        "DILDAAR YAARA 💚", "Downloaded by »", "@St2Master", "『ᎷΔŞŦᏋᏒ』", 
+        "[MASOOM GURJAR™]", "🄼🄰🅂🅃🄴🅁", "Extracted By ➤", "[©Class_Tube]"
+    ]    
     # a list of regex pattern strings to remove from the existing caption. 
     # For eg. r".*Join.*" will remove the entire line having word Join
     REGEX_PATTERNS = []  
